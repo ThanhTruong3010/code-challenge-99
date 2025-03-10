@@ -1,0 +1,1 @@
+export const FETCH_CURRENCY_INFORMATION = 'fetch-currency-information'
