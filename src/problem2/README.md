@@ -1,3 +1,8 @@
+# Overview
+
+- Server: https://code-challenge-99tech-henna.vercel.app/
+- UI: ![alt text](image.png)
+
 # Problem Assumptions
 
 1. **Interchangeable Currencies for Enhanced UX**
@@ -67,7 +72,6 @@ Ensure the following are installed on your machine:
      ```
 
 4. **Access the Project in Your Browser**
-   - Server: https://code-challenge-99tech-henna.vercel.app/
    - Once the server is running, you'll see a message like this in the terminal:
      ```
      VITE v<version>  ready in <milliseconds>
