@@ -10,7 +10,7 @@
 
 ## 2. Improve the getPriority function's logic
 
-- **Issue:** Using `Swith case` verbose and harder to naintain
+- **Issue:** Using `Swith case` verbose and harder to maintain
   - Each case requires multiple lines, making the function unnecessarily long.
   - If you add a new blockchain, you have to modify multiple lines.
 - **Optimization:** Using `Object Lookup` leaner and more Maintainable Code
